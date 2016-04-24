@@ -1,0 +1,9 @@
+{
+  "name": "sealine.logger",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Jerry",
+  "license": "ISC"
+}
